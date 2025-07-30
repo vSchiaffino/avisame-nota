@@ -105,9 +105,9 @@ Para configurar correctamente `CARRERA_ID` y `CARRERA_NOMBRE`, necesitas obtener
 ### Obtener CARRERA_ID y CARRERA_NOMBRE (si es informática, simplemente usar el ejemplo)
 
 Inspeccionar elemento
-![alt text](https://raw.githubusercontent.com/vSchiaffino/avisame-nota/refs/heads/main/img/image-1.png)
+![alt text](https://raw.githubusercontent.com/vSchiaffino/avisame-nota/refs/heads/main/img/image.png)
 El valor del data-carrera-id (en este caso 40 es CARRERA_ID y el valor de title es CARRERA_NOMBRE, tiene que ser exactamente el mismo valor)
-![alt text](https://raw.githubusercontent.com/vSchiaffino/avisame-nota/refs/heads/main/img/image-2.png)
+![alt text](https://raw.githubusercontent.com/vSchiaffino/avisame-nota/refs/heads/main/img/image-1.png)
 
 ## ⚙️ Configuración avanzada
 
