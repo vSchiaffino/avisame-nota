@@ -17,7 +17,7 @@ Este proyecto utiliza web scraping para monitorear automáticamente tu historia 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/vSchiaffino/avisame-nota.git
 cd avisame-nota
 ```
 
